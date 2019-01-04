@@ -6,14 +6,17 @@ title: Jeremy Hemberger's CV
 Entomologist, ecologist, science communicator, photographer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="j.hemberger.wisc@gmail.com">j.hemberger.wisc@gmail.com</a>
+| <a href="http://www.jeremyhemberger.com">My website</a>
 </div>
 
 
-## Currently
+## Contact information
+:317 Elmside Blvd:  :(608) 622-2698:
+:Unit #2:  :<a href="j.hemberger.wisc@gmail.com">j.hemberger.wisc@gmail.com</a>:
+:Madison, WI 53704:  :<a href="hemberger@wisc.edu">hemberger@wisc.edu</a>:
+ 
 
-Standing on the shoulders of giants
 
 ### Specialized in
 
