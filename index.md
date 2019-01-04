@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeremy Hemberger's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeremy Hemberger
+Entomologist, ecologist, science communicator, photographer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
